@@ -1,0 +1,12 @@
+/*****************************************************************************************************************************************/
+/*                         BE PROGRAMATION ORIENTEE OBJET C++                                                                            */
+/*                                4AE-SE - TP2                                                                                           */
+/*                                 PUISSANCE 4                                                                                           */
+/*              MAYA ABI GHANEM                           LUCAS MARCHANT                                                                 */
+/*                                                                                                                                       */
+/*****************************************************************************************************************************************/
+
+En se servant du potentiomètre, placer le “jeton” (spot lumineux sur la matrice de LED) à la colonne désirée. 
+Attendre le décompte du timer. Celui-ci déclenche le placement du jeton à la première case disponible de la colonne.  
+Comme tout jeu de puissance 4, le but serait de poser 4 jetons consécutifs de même couleur. Dans notre version , seuls les jetons consécutifs de même couleur sur la même ligne ou la même colonne sont pris en compte. 
+
